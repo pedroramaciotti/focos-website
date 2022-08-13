@@ -52,4 +52,4 @@ defaults:
     values:
       layout: "default"                 # Only required for Petridish website, implied for sites using a theme
 
-remote_theme: peterdesmet/petridish@2.0
+theme: peterdesmet/petridish
